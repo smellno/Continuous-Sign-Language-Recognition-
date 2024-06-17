@@ -1,0 +1,16 @@
+name: pytorch1.9.1_corrnet
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2023.08.22=haa95532_0
+  - libffi=3.4.4=hd77b12b_0
+  - openssl=3.0.10=h2bbff1b_2
+  - pip=23.2.1=py38haa95532_0
+  - python=3.8.18=h1aa4202_0
+  - setuptools=68.0.0=py38haa95532_0
+  - sqlite=3.41.2=h2bbff1b_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.38.4=py38haa95532_0
+prefix: D:\Anaconda\envs\pytorch1.9.1_corrnet
+
