@@ -54,14 +54,3 @@ The priorities of configuration files are: command line > config file > default 
 Note that you can choose the target dataset from phoenix2014/phoenix2014-T/in line 3 in ./config/baseline.yaml.
  
 
-### Citation
-
-If you find this repo useful in your research works, please consider citing:
-
-```latex
-@inproceedings{hu2023continuous,
-  title={Continuous Sign Language Recognition with Correlation Network},
-  author={Hu, Lianyu and Gao, Liqing and Liu, Zekang and Feng, Wei},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  year={2023},
-}
